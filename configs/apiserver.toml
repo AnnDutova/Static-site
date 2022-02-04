@@ -1,0 +1,2 @@
+bind_addr = ":8080"
+database_url = "root:123456@tcp(localhost:3306)/test_all"
